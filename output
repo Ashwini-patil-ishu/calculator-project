@@ -6,3 +6,37 @@ Enter first number
 Enter second number
 9
 3.0 + 9.0 = 12.0
+
+
+Choose an operator: +, -, *, or /
+
+-
+Enter first number
+
+9
+Enter second number
+
+3
+9.0 - 3.0 = 6.0
+
+
+Choose an operator: +, -, *, or /
+*
+Enter first number
+
+3
+Enter second number
+
+9
+3.0 * 9.0 = 27.0
+
+
+Choose an operator: +, -, *, or /
+/
+Enter first number
+
+9
+Enter second number
+
+3
+9.0 / 3.0 = 3.0
